@@ -15,3 +15,5 @@ __Жирный шрифт__
 
 А Это картинка
 ![Картинка](https://mobimg.b-cdn.net/v3/fetch/ae/ae3617367cfef8ee5cba5db54cde1360.jpeg?w=1470&r=0.5625)
+
+[Wikipedia](https://www.wikipedia.org) Универсальная ссылка
