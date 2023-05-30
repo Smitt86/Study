@@ -13,7 +13,10 @@ __Жирный шрифт__
 
 > Это еще одна цитата
 
-А Это картинка
+А Это картинка, добавленная ссылкой из сети
 ![Картинка](https://mobimg.b-cdn.net/v3/fetch/ae/ae3617367cfef8ee5cba5db54cde1360.jpeg?w=1470&r=0.5625)
+
+Также можно сохранить файл с картинкой в папке проекта и прикрепить изображение вот так:
+![Кот из папки resourses](/resourses/kot-koshak-kotyara-kote-vzglyad.jpg)
 
 [Wikipedia](https://www.wikipedia.org) Универсальная ссылка
